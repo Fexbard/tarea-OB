@@ -1,0 +1,5 @@
+Lista completa: Dama es: 9
+Lista completa: Peón es: 1
+Lista completa: Caballo es: 3
+Lista completa: Alfil es: 3
+Lista completa: Torre es: 5
